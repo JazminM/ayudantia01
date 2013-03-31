@@ -2,9 +2,8 @@
 
 body {
   padding-left: 11em;
-font-familiy:Courier New, monospace;
-  color: black;
-  background-color: white}
+  color: white;
+  background-color: #7093DB}
 
 ul.navbar {
   list-style-type: none;
@@ -21,8 +20,12 @@ font-family: Helvetica, Geneva, Arial,
 padding-left: 15em;
 color: red;}
 
+h2{
+font-family: "Comic Sans MS", cursive;
+}
 
-
+h3{
+  padding-left: 25em; }
 
 
 ul.navbar li {
@@ -41,7 +44,8 @@ a:link {
 a:visited {
   color: yellow; }
 
-
+a:hover {
+ color: red;}
 
 
 
